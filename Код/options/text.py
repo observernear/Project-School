@@ -11,7 +11,7 @@ p, li { white-space: pre-wrap; }\n
 <li style=\"\" style=\" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-weight:600;\">Современные и классические шифры: </span>Работайте с различными типами шифров, включая <b>шифр Цезаря</b>, <b>шифр Атбаш</b> и многие другие.</li></ul>\n
 <p style=\" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-weight:600;\">Приложение CryptoMaster</span> предоставляет вам инструменты, чтобы исследовать мир криптографии и наслаждаться разгадыванием секретных сообщений. У вас есть шанс стать настоящим криптоаналитиком!</p>\n
 <p style=\"-qt-paragraph-type:empty; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><br /></p>\n
-<p dir=\'rtl\' style=\" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-weight:600;\">Автор: @thisisobserver</span></p></body></html>"""
+<p dir=\'rtl\' style=\" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-weight:600;\">Автор: @observernear</span></p></body></html>"""
 
 text_about_us = """<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n
 <html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n
